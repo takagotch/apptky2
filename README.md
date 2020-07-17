@@ -11,6 +11,8 @@
 ```
 Gemfile
 Gemfile.lock
+index.rb
+data.csv
 README.md
 cmd.sh
 
